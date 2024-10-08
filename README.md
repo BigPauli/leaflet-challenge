@@ -1,1 +1,3 @@
 # leaflet-challenge
+## Leaflet-Part-1/static/js/logic.js
+This script loads GeoJSON data from earthquak.usgs.gov of all earthquakes in the world from the past 7 days. It then iterates over each of them, adding them to a map at their real-life location. Each earthquake is visualized with its color representing its depth and its size representing its magnitude. Upon clicking on a marker, a popup appears that displays the earthquake's magnitude, location, and depth.
